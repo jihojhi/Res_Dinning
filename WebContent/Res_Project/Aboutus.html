@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Rest_Aboutus</title>
+<link rel="stylesheet" type="text/css" href="res_aboutus.css" media="screen">
+</head>
+<body>
+	<div id="header">
+	
+		<div id="rest"><a href="Main.html">REST</a></div>
+		
+			<!-- 마우스 올릴시 이미지 이벤트 -->
+			<div id="menu1"><a href="reserve_Index.jsp">Reservation</a></div>
+			<div id="menu2"><a href="Menu.html">Menu</a></div>
+			<div id="menu3"><a href="Aboutus.html">About Us</a></div>
+			
+		</div>
+		
+		
+		<div id="location">
+		
+		<div class="Menubar">
+			
+				<div id="cate" align="center"><a href="#">Location</a></div>
+				<div id="cate" align="center"><a href="#">Chefs</a></div>
+				<div id="cate" align="center"><a href="#">Article</a></div>
+				<div id="cate" align="center"><a href="#">Review</a></div>
+			
+		</div>
+	
+		
+		<div id="map">
+			<!-- * 카카오맵 - 지도퍼가기 -->
+			<!-- 1. 지도 노드 -->
+			<div id="daumRoughmapContainer1604385945540" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+			
+			<!--
+				2. 설치 스크립트
+				* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
+			-->
+			<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+			
+			<!-- 3. 실행 스크립트 -->
+			<script charset="UTF-8">
+				new daum.roughmap.Lander({
+					"timestamp" : "1604385945540",
+					"key" : "22ry3",
+				}).render();
+			</script>
+		</div>
+		
+		
+		<div id="letter">
+			<h3>Location</h3>
+			<p>서울특별시 송파구 잠실6동 올림픽로 300</p>
+		
+		</div>
+		
+		
+		</div>
+</body>
+</html>
