@@ -13,7 +13,7 @@
 
 시그니처 메뉴 사진과 함께 연락처 제공하는 메인화면
 
-![main](C:\Users\jihoj\Desktop\main.png)
+![main](./docs/main.png)
 
 <br>
 
@@ -23,25 +23,25 @@
 
 사용자와 관리자가 예약 서비스를 이용할 수 있는 예약화면
 
-![reserve](C:\Users\jihoj\Desktop\reserve.png)
+![reserve](./docs/reserve.png)
 
 <br>
 
 회원번호 입력 후, 예약 진행
 
-![reserve1](C:\Users\jihoj\Desktop\reserve1.png)
+![reserve1](./docs/reserve1.png)
 
 <br>
 
 회원번호 입력 후, 예약 내역 확인 : 예약 수정, 예약 취소, 예약화면으로 돌아가기 가능
 
-![reserve2](C:\Users\jihoj\Desktop\reserve2.png)
+![reserve2](./docs/reserve2.png)
 
 <br>
 
 관리자 로그인 후, 모든 예약 정보 조회 가능
 
-![reserve3](C:\Users\jihoj\Desktop\reserve3.png)
+![reserve3](./docs/reserve3.png)
 
 <br>
 
@@ -51,7 +51,7 @@
 
 레스토랑 메뉴를 코스별로 소개할 수 있는 화면
 
-![menu](C:\Users\jihoj\Desktop\menu.png)
+![menu](./docs/menu.png)
 
 <br>
 
@@ -61,5 +61,5 @@
 
 레스토랑 위치, 요리사, 관련기사, 리뷰를 제공하는 화면
 
-![about](C:\Users\jihoj\Desktop\about.png)
+![about](./docs/about.png)
 
